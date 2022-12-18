@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "title": "Phones",
+        "image": "phones",
+    },
+    {
+        "id": 1,
+        "title": "Computer",
+        "image": "computer",
+    },
+    {
+        "id": 2,
+        "title": "Health",
+        "image": "health",
+    },
+    {
+        "id": 3,
+        "title": "Books",
+        "image": "books",
+    }
+]
